@@ -1,0 +1,11 @@
+compile
+run
+compile
+test
+1 + 1
+compile
+val prov = 1
+import com.twitter.sample._
+scala
+console
+exit

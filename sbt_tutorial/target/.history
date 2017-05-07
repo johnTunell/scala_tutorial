@@ -1,0 +1,8 @@
+show organization
+show project
+show projectInfo
+show name
+set organization := "John org"
+show organization
+compile
+run
